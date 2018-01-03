@@ -1,0 +1,3 @@
+--use_strict
+--reporter dot
+--require ./test/env
